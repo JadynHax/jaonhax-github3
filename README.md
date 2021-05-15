@@ -3,5 +3,7 @@
 > janky, buggy, and honestly pretty awful, please create an issue, but also cut me a
 > *little* slack, as this is my first API integration.
 
-### Contents
+## Contents
 The GitHub Connection Object
+
+## The GitHub Connection Object
